@@ -1,17 +1,5 @@
----
-title: windows下ip修改小公举
-date: 2021-03-17 14:17:34
-tags:
-	- windows
-	- tools
-categories: 
-	- 工具开发
 
----
-
-![image-20210317142624681](C:\Users\greetdawn\AppData\Roaming\Typora\typora-user-images\image-20210317142625139.png)
-
-<!-- more -->
+![image-20210317163146883](https://gitee.com/greetdawn/blogImages/raw/master/img/image-20210317163146883.png)
 
 ### 场景说明
 
